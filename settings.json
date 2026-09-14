@@ -7,8 +7,8 @@
   },
   "server": {
     "ip": "The_Obsessed.aternos.me",
-    "port": 75375,
-    "version": "1.21.1"
+    "port": 19487,
+    "version": "26.2"
   },
   "position": {
     "enabled": true,
